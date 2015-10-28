@@ -17,5 +17,6 @@
 <int name="maxImageWidth" value="2592" />
 <boolean name="enabledMMS" value="true" />
 <boolean name="enableMultipartSMS" value="true" />
+<int name="volte_replacement_rat_int" value="6" />
 </carrier_config>
 </carrier_config_list>
